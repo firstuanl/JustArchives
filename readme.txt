@@ -1,5 +1,9 @@
+##è¯´æ˜
+
+æ¬è¿è‡ªhttps://plugins.typecho.me/plugins/just-archives.html
+
 === JustArchives ===
 
 == Installation ==
-1.´´½¨Ò»¸öÒ³Ãæ
-2.ÔÚÒ³ÃæÄÚÈİÖĞĞ´Èë <justarchives>
+1.åˆ›å»ºä¸€ä¸ªé¡µé¢
+2.åœ¨é¡µé¢å†…å®¹ä¸­å†™å…¥ <justarchives>
